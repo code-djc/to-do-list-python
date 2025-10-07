@@ -1,4 +1,4 @@
 # TO-DO LIST IN PYTHON
-https://www.djc.pe/es/daily/djc3/ 
+https://www.djc.pe/en/daily/djc3/ 
 
 @215
